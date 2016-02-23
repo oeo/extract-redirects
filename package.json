@@ -5,8 +5,12 @@
   "main": "./build/module.js",
   "author": "taky@taky.com",
   "repository": "douglauer/extract-redirects",
-  keywords": [
-    "taky"
+  "keywords": [
+    "taky",
+    "dns",
+    "prefetch",
+    "redirects",
+    "follow"
   ],
   "dependencies": {
     "lodash": "^4.5.1",
