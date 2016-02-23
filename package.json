@@ -1,7 +1,7 @@
 {
   "name": "extract-redirects",
   "description": "extract redirect urls for dns-prefetching",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./build/module.js",
   "author": "taky@taky.com",
   "repository": "douglauer/extract-redirects",
